@@ -189,7 +189,7 @@
         <div class="container">
             <header class="section-header text-center wow zoomIn" data-wow-delay="0.1s">
                 <p>My Resume</p>
-                <h2>Working Experience And volunteering</h2>
+                <h2>Working Experience and Volunteering</h2>
             </header>
             <div class="timeline">
                 <div class="timeline-item left wow slideInLeft" data-wow-delay="0.1s">
